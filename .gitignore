@@ -4,4 +4,7 @@ aws_access_info/
 *.env
 *.pem
 terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.*
 .terraform/
