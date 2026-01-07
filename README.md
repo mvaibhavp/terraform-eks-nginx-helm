@@ -6,7 +6,7 @@
 [![eks](https://img.shields.io/badge/EKS-v1.31-blue)](https://aws.amazon.com/eks/)
 [![ingress-nginx](https://img.shields.io/badge/Ingress-Nginx-v4.11.3-orange)](https://kubernetes.github.io/ingress-nginx)
 
-##️ Architecture
+## Architecture
                     INTERNET
                        │
                        │
